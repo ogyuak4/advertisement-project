@@ -1,5 +1,8 @@
 Bir ilan sistemi için, ilan bilgilerini alıp ilan kaydı oluşturan, belli kriterlere göre ilan sorgulamalarının yapılabildiği restful bir uygulamanın Spring Boot framework kullanılarak yazılması,
 
+![Sistem Diyagramı](images/image1.png)
+
+
 Gereksinimler:
 
 - Kullanıcıdan ad-soyad, telefon, email, password bilgileri alınarak, kullanıcı kaydı yapılmalıdır.
